@@ -1,9 +1,6 @@
 # 👋 Hi, I'm Aqsa Khan
 
-### AI Automation Developer | Flutter Developer | UX/UI Designer
-
-I'm passionate about building AI-powered applications that solve real-world problems using LLMs, RAG, Flutter, Python, and modern automation tools.
-
+I'm interested in building AI-powered applications that solve real-world problems and many more .
 
 ## 🚀 About Me
 
@@ -12,7 +9,7 @@ I'm passionate about building AI-powered applications that solve real-world prob
 - 🎨 UX/UI Designer using Figma
 - 🧠 Working with new technologies 
 - 📊 Data Analytics & Dashboard Development
-- 🌱 Currently learning MCP & Advanced AI Workflows
+- 🌱 Currently learning new oppurtunities 
 - 💼 Open to freelance and collaboration opportunities
 
 
