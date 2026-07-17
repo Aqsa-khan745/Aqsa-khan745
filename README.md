@@ -10,9 +10,9 @@ I'm passionate about building AI-powered applications that solve real-world prob
 - 🤖 Building AI Agents & AI Automation Systems
 - 📱 Flutter Mobile App Developer
 - 🎨 UX/UI Designer using Figma
-- 🧠 Working with RAG, Google Gemini & Supabase
+- 🧠 Working with new technologies 
 - 📊 Data Analytics & Dashboard Development
-- 🌱 Currently learning LangGraph, MCP & Advanced AI Workflows
+- 🌱 Currently learning MCP & Advanced AI Workflows
 - 💼 Open to freelance and collaboration opportunities
 
 
